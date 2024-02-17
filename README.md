@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 707
+# Client Collection List - Total Clients: 708
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -108,6 +108,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Cebulionware.NEXT   | https://github.com/0x4d65/Cebulionware.NEXT             |
 | Celestial           | https://celka.xyz // https://github.com/noom1337/hacked-client-collection/tree/main/Celestial%20Premium%206.0%20(1.12.2) |
 | Celestial Recode | https://github.com/tuskypaster/Celestial-Recode-src |
+| Cherry-6.0 | https://github.com/MikuSoCute/CherryClient-6.0 |
 | Claudius            | https://github.com/Crimply/Claudius                     |
 | Click               | https://github.com/noatmc/click                         |
 | ClickCrystals       | https://github.com/ItziSpyder/ClickCrystals             |
