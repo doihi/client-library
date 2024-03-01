@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 716
+# Client Collection List - Total Clients: 717
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -212,6 +212,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | FurryWare           | https://github.com/Intel-i80486-DX4/FurryWare-B40       |
 | Future              | https://futureclient.net // https://crystalpvp.ru/future/ // https://github.com/PlutoSolutions/Future |
 | FutureX             | https://github.com/RaptorClientDevelopment/futrexclientsource // https://github.com/chris2rich/FutureX |
+| Future-blackout     | https://github.com/Error11O/future-blackout |
 | Fyra | https://github.com/Sxmurai/fyra |
 | Galacticc | https://github.com/Kopamed/Galacticc |
 | Galactie            | https://github.com/maxgamesNL/Galactite                 |
