@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 717
+# Client Collection List - Total Clients: 718
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -639,6 +639,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Toxic.club          | https://github.com/iBikky/toxic.club                    |
 | TransWare           | https://github.com/VxlerieUwU/transware                 |
 | TrapClient          | https://github.com/trap-client/trap-client              |
+| Trillium            | https://github.com/3000IQPlay/Trillium                  |
 | Trinity             | https://github.com/LeonLeonPotato/Trinity               |
 | Trinity+ / TrinityPlus | https://github.com/ssllllll/TrinityPlus-PWNED // https://github.com/urelNiP/TrinityPlus-b2.8-OBF |
 | TrollGod.cc / RealthClient | https://github.com/DBOwinnings/TrollGodCC-v1.5.4-Source-Code // https://github.com/kucukam/RealthClient-TrollGod // https://github.com/bluteest/trollgod.cc-deobf |
