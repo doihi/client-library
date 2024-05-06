@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 719
+# Client Collection List - Total Clients: 720
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -595,6 +595,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | SolClient           | https://github.com/Sol-Client/Client                    |
 | Sorus               | https://github.com/4wl/Sorus                            |
 | SovietWare          | https://github.com/CumHax/SovietWare                    |
+| sozyhack            | https://github.com/yo00k/s0zyh4ck_download              |
 | Spark               | https://github.com/Spark-Client-Development/Spark-Client |
 | Spark               | https://github.com/Sxmurai/spark                        |
 | SpectClient         | https://github.com/SaberAspect/SpectClient              |
