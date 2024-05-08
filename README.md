@@ -567,6 +567,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | ShafferHack         | https://github.com/IntelliBlade/ShafferHack-Lightweight-PvP-Client |
 | ShellSock           | https://github.com/ImCzf233/OpenLogger                  |
 | SHGR                | https://github.com/KamiSkidder/shgr-client              |
+| shoreline           | https://github.com/pastimee/shoreline                   |
 | Shid | https://github.com/stever9487/shid-client |
 | Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
